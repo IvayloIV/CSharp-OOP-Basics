@@ -13,3 +13,4 @@
 9.  [**Lab-Interfaces and Abstraction**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-February-2018/Lab-Interfaces_and_Abstraction)
 10.  [**Exercise-Interfaces and Abstraction**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-February-2018/Exercise-Interfaces_and_Abstraction)
 11.  [**Lab-Polymorphism**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-February-2018/Lab-Polymorphism)
+12.  [**Exercise-Polymorphism**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-February-2018/Exercise-Polymorphism)
