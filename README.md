@@ -21,6 +21,7 @@
 17.  [**Lab-Iterators and Comparators**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-February-2018/Lab-Iterators_and_Comparators)
 18.  [**Exercise-Iterators and Comparators**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-February-2018/Exercise-Iterators_and_Comparators)
 19.  [**Lab-Reflection and Attributes**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-February-2018/Lab-Reflection_and_Attributes)
+20.  [**Exercise-Reflection and Attributes**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-February-2018/Exercise-Reflection_and_Attributes)
 
 ## <b>C#-OOP-Basics - Exam</b>
 1.  [**C#-OOP-Basics-Exam-Sample - 12 July 2017**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-Exam/C%23-OOP-Basics-Exam-Sample-12_July_2017)
