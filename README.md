@@ -23,6 +23,7 @@
 19.  [**Lab-Reflection and Attributes**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-February-2018/Lab-Reflection_and_Attributes)
 20.  [**Exercise-Reflection and Attributes**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-February-2018/Exercise-Reflection_and_Attributes)
 21.  [**Lab-Object Communication and Events**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-February-2018/Lab-Object_Communication_and_Events)
+22.  [**Exercise-Object Communication and Events**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-February-2018/Exercise-Object_Communication_and_Events)
 
 ## <b>C#-OOP-Basics - Exam</b>
 1.  [**C#-OOP-Basics-Exam-Sample - 12 July 2017**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-Exam/C%23-OOP-Basics-Exam-Sample-12_July_2017)
