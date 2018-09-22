@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Equality_Logic", "07.Equ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Pet_Clinic", "08.Pet_Clinic\08.Pet_Clinic.csproj", "{F493CC68-B41A-4EAF-A04C-1D92CBD324FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Linked_List_Traversal", "09.Linked_List_Traversal\09.Linked_List_Traversal.csproj", "{46F81B3F-ECEB-4EE6-B5BC-66CD0D4A1FF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{F493CC68-B41A-4EAF-A04C-1D92CBD324FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F493CC68-B41A-4EAF-A04C-1D92CBD324FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F493CC68-B41A-4EAF-A04C-1D92CBD324FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F81B3F-ECEB-4EE6-B5BC-66CD0D4A1FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F81B3F-ECEB-4EE6-B5BC-66CD0D4A1FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F81B3F-ECEB-4EE6-B5BC-66CD0D4A1FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F81B3F-ECEB-4EE6-B5BC-66CD0D4A1FF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
