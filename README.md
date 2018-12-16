@@ -32,3 +32,4 @@
 4.  [**C#-OOP-Basics-Exam-Retake - 5 September 2017**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-Exam/C%23-OOP-Basics-Exam-Retake-5_September_2017)
 5.  [**C#-OOP-Basics-Exam - 18 March 2018**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-Exam/C%23-OOP-Basics-Exam-18_March_2018)
 6.  [**C#-OOP-Basics-Exam-Retake - 26 April 2018**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-Exam/C%23-OOP-Basics-Exam-Retake-26_April_2018)
+7.  [**C#-OOP-Basics-Exam - 18 November 2018**](https://github.com/IvayloIV/CSharp-OOP-Basics/tree/master/C%23-OOP-Basics-Exam/C%23-OOP_Basics_Exam-18_November_2018)
